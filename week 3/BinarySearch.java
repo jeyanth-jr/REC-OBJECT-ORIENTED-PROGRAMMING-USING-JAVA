@@ -27,5 +27,8 @@ public class BinarySearch {
         if (flag == 0) {
             System.out.println("Element not found in array");
         }
+        else{
+            System.out.println("element found at " + mid");
+        }                       
     }
 }
