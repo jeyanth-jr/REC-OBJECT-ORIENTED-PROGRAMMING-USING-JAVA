@@ -10,12 +10,18 @@ public class BinarySearch {
             arr[i] = sc.nextInt();
         }
         System.out.println("Enter element to be searched");
-        int x = sc.nextInt(), flag = 0;
-        for (int i = 0; i < n; i++) {
-            if (arr[i] == x) {
-                System.out.println("element " + x + " found at " + i+1);
-                flag = 1;
+        int x = sc.nextInt(), flag = 0,f=0,l=n-1,mid;
+        while(f<=l){
+            mid=(f+l)/2;
+            if(arr[mid]==x){
+                flag=1;
                 break;
+            }
+            else if(arr[mid]<x){
+                f=mid+1;
+            }
+            else{
+                l=mid-1;
             }
         }
         if (flag == 0) {
