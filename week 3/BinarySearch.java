@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import  java.util.Arrays;
 public class BinarySearch {
     public static  void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -9,6 +10,7 @@ public class BinarySearch {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
+        Arrays.sort(arr)
         System.out.println("Enter element to be searched");
         int x = sc.nextInt(), flag = 0,f=0,l=n-1,mid;
         while(f<=l){
