@@ -5,10 +5,10 @@
     *speed:65
 ### Interface2:
     *Account holder:Kumar
-Current Balance:15000
-EMI:2500
-Thanks for using our service today, Have a nice day!!!
-Welcome to our bank
-Account holder:Kumar
-Current Balance:15000
-EMI:2500
+    Current Balance:15000
+    EMI:2500
+    Thanks for using our service today, Have a nice day!!!
+    Welcome to our bank
+    Account holder:Kumar
+    Current Balance:15000
+    EMI:2500
