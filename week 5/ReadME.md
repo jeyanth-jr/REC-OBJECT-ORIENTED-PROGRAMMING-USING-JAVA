@@ -14,5 +14,5 @@
     EMI:2500
   
 ### Interface2:
-   *Area: 25
-    Area: 30
+    *Area: 25
+     Area: 30
