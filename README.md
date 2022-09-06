@@ -20,7 +20,7 @@ OBJECT ORIENTED PROGRAMMING USING JAVA (AI19342)
        *Transpose of a matrix
        
 ### week 4:
-       *Class and objects
+       *Class and Objects
 
 ### week 5:
-       *Programs using inheritance 
+       *Programs using Inheritance and Interface
