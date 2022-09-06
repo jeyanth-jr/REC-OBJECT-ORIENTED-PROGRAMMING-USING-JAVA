@@ -24,3 +24,6 @@ OBJECT ORIENTED PROGRAMMING USING JAVA (AI19342)
 
 ### week 5:
        *Programs using Inheritance and Interface
+       
+### week 6:
+       *Programs using Abstract class and Abstract methods
