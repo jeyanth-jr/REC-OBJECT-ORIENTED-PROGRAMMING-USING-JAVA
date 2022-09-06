@@ -12,3 +12,7 @@
     Account holder:Kumar
     Current Balance:15000
     EMI:2500
+  
+### Interface2:
+   *Area: 25
+    Area: 30
